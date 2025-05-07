@@ -1,0 +1,59 @@
+html{
+    text-align: center;
+    color:black;
+    background-color:aquamarine; 
+    margin: 0px auto;
+    padding: 20px;
+    height:100%;
+    font-size: 16px;
+    background-image:url(Image/arrière.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    cursor: url(curseur.cur) 16 16, auto;
+
+}
+img, iframe{
+    border: 1px dotted red;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+    margin-bottom: 10px;
+    margin-top: -17px;
+    
+}
+h1{
+    font-size: 300%;
+    color:red;
+    text-shadow: 2px 2px 5px black;
+    text-align: center;
+    border: 1px dashed yellowgreen;
+    border-radius: 100px;
+    background-color:lightblue;
+    padding: 10px;
+}
+ul, p{
+    list-style-type: none;
+    padding: 0;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 120%;
+    border:1px solid red;
+    background:linear-gradient(yellowgreen, green);
+    border-radius: 10px;
+    font-style:italic;
+    margin-bottom: 40px;
+    margin-top: -20px;
+
+}
+strong{
+    color:white;
+    font-size: 100%;
+    text-shadow: 2px 2px 5px black;
+    font-style: italic;
+}
+h2{
+    border: 1px dotted black;
+    border-radius: 100px;
+    background-color:lightblue;
+}
